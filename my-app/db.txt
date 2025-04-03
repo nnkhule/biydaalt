@@ -1,0 +1,12 @@
+[
+    {"question": "20+20=?", "answer": "40"},
+    {"question": "78+42=?", "answer": "120"},
+    {"question": "91+63=?", "answer": "154"},
+    {"question": "56+28=?", "answer": "84"},
+    {"question": "39+58=?", "answer": "97"},
+    {"question": "67+89=?", "answer": "156"},
+    {"question": "187+124=?", "answer": "311"},
+    {"question": "245+361=?", "answer": "606"},
+    {"question": "529+382=?", "answer": "911"},
+    {"question": "846+293=?", "answer": "1139"}
+]

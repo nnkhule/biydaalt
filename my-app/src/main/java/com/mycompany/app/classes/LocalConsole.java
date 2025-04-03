@@ -1,4 +1,4 @@
-package classes;
+package com.mycompany.app.classes;
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -1,6 +1,5 @@
-package classes;
+package com.mycompany.app.classes;
 
-import interfaces.FlashcardApp;
 import java.io.IOException;
 import java.util.Random;
 

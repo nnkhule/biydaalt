@@ -1,6 +1,5 @@
-package classes;
+package com.mycompany.app.classes;
 
-import interfaces.FlashcardApp;
 import java.io.IOException;
 
 public class EditFlashcard implements FlashcardApp {

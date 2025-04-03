@@ -1,4 +1,4 @@
-package interfaces;
+package com.mycompany.app.classes;
 
 public interface FlashcardData {
     String getQuestion();

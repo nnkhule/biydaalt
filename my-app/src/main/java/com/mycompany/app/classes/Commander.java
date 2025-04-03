@@ -1,8 +1,7 @@
-﻿package classes;
-
-import interfaces.FlashcardApp;
+﻿package com.mycompany.app.classes;
 import java.io.IOException;
 import java.util.ArrayList;
+
 
 public class Commander implements FlashcardApp {
     private String state;
